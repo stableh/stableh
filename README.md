@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Nodejs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=Nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6cb33e?style=for-the-badge&logo=SpringBoot&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
